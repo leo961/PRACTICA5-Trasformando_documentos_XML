@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/Nexus/Documents/semestre9j/web/Nuevacarpeta/motos.xsl"?>
+<motos>
+<moto>
+<nombre>Italica</nombre>
+<precio>$50,000.00</precio>
+</moto>
+
+<moto>
+<nombre>Motocros </nombre>
+<precio>$30,000.00</precio>
+</moto>
+
+<moto>
+<nombre>CICLOMOTORES</nombre>
+<precio>$50,000.00</precio>
+</moto>
+
+</motos>
